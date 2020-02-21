@@ -1,5 +1,5 @@
 # Starter pipeline
-- task: AzureWebApp@1
+- task: AzureWebApp
   inputs:
     appType: 'webApp'
     appName: 'Monitor'
